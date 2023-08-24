@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Novimatrem's feed
+title: Novimatrem's microblogging feed
 permalink: /page/
 ---
 
