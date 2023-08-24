@@ -27,7 +27,7 @@ I'm zoey, aka Novimatrem.
 
 Welcome to an alternative to social media solution, that is read-only, and with only a single user- me!
 
-Because I have been bullied off of social media by awful bigoted ableist transphobic harassers, I have created this. It relies around RSS, and requires you have an RSS feed reader client. I recommend FeedReader on Linux, and RSSOwl on Windows.
+Because I have been bullied off of social media by awful bigoted ableist transphobic harassers, I have created this. It relies around RSS, and requires you have an RSS feed reader client. I recommend FeedReader on Linux, and <a href="https://www.rssowl.org/" target="_blank">RSSOwl on Windows</a>.
 
 ## To view my posts.
 
