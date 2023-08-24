@@ -41,4 +41,4 @@ https://novimatrem.gitlab.io/social/feed.xml
 
 Send an e-mail to TheNovimatrem@protonmail.ch with your email client of choice, with the subject line being "RE: Social post - The title of the post". For example, "RE: Social post - A beautiful screenshot". (without quotes)
 <br>
-### Thank you for reading, see you over RSS!
+### Thank you for reading, see you over on RSS!
