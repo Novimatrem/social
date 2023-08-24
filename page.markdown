@@ -31,9 +31,14 @@ Because I have been bullied off of social media by awful bigoted ableist transph
 
 ## To view my posts.
 
+Add the following RSS feed to your RSS feed reader client: <a href="https://novimatrem.gitlab.io/social/feed.xml">https://novimatrem.gitlab.io/social/feed.xml</a>
+
 https://novimatrem.gitlab.io/social/feed.xml
+
+<b>ENSURE that your RSS client is configured to download each and every post from this feed, all of them, or at least as many as you can reasonably set it to.</b>
 
 ## To reply to my posts.
 
 Send an e-mail to TheNovimatrem@protonmail.ch with your email client of choice, with the subject line being "RE: Social post - The title of the post". For example, "RE: Social post - A beautiful screenshot". (without quotes)
-
+<br>
+### Thank you for reading, see you over RSS!
