@@ -31,7 +31,7 @@ iframe {
 </style>
 <a href="https://novimatrem.gitlab.io/social/feed.xml">
 <icon class="rss">&nbsp;&nbsp;</icon>
-</a>
+<a href="https://novimatrem.gitlab.io/social/feed.xml">https://novimatrem.gitlab.io/social/feed.xml</a>
 
 Hello!
 I'm zoey, aka Novimatrem. 
