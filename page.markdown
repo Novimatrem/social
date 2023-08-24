@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Novimatrem
+title: Novimatrem's feed
 permalink: /page/
 ---
 
