@@ -6,7 +6,7 @@ published: true
 permalink: https://novimatrem.gitlab.io/social/2023-07-25-novi-social.html
 redirect_from: https://novimatrem.gitlab.io/social/2023-07-25-novi-social.html
 redirect_to:  https://novimatrem.gitlab.io/social/page
-date:   2023-07-25 18:40:00
+date:   2023-08-24 23:15:00
 ---
 If you are not redirected automatically, follow this [https://novimatrem.gitlab.io/social/page](https://novimatrem.gitlab.io/social/page) link to novimatrem.gitlab.io/social/page
 <html lang="en">
