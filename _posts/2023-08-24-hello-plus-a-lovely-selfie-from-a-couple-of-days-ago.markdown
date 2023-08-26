@@ -12,3 +12,7 @@ This post serves as a test post for the new social media system I've come up wit
 
 ...
 
+<a href="mailto:TheNovimatrem@protonmail.ch?subject=RE%3A%20Social%20post%20-%20Hello%21%20%2B%20A%20lovely%20selfie%20from%20a%20couple%20of%20days%20ago">Reply</a>
+
+...
+
