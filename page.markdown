@@ -52,4 +52,6 @@ https://novimatrem.gitlab.io/social/feed.xml
 
 Send an e-mail to TheNovimatrem@protonmail.ch with your email client of choice, with the subject line being "RE: Social post - The title of the post". For example, "RE: Social post - A beautiful screenshot". (without quotes)
 <br>
+By popular demand, a Reply button has been added to each post, which will automatically enter the correct Subject line into your default email client.
+<br>
 ### Thank you for reading, see you over on RSS!
