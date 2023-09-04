@@ -10,7 +10,7 @@ I actually really enjoy the idea I came up with, I think it fits me perfectly, a
 
 I made an image edit of it, to show you what one of the only tattoos I'd be interested in getting would look like. Given I've been looking up local tattoo places, I might truly be considering it, despite the fact that I am absolutely awful when it comes to withstanding pain.
 
-<img src="https://gitlab.com/Novimatrem/social/-/raw/main/_postImagesUsed/tattoo0.png" style="height:auto; width:550px;">
+<img src="https://gitlab.com/Novimatrem/social/-/raw/main/_postImagesUsed/tattoo0.jpg" style="height:auto; width:550px;">
 
 What do you think? I like the look of it, and don't think it's unreasonably large or too small.
 
