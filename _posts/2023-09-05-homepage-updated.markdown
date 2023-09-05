@@ -4,7 +4,7 @@ title:  "Homepage updated"
 date:   2023-09-05 22:40:00 +0000
 ---
 
-The homepage of my website, <a href="https://novimatrem.uk" target="_blank">https://novimatrem.uk</a>, has been updated.
+The homepage of my website, <a href="https://novimatrem.uk" target="_blank">novimatrem.uk</a>, has been updated.
 
 ...
 
