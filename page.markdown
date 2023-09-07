@@ -55,3 +55,9 @@ Send an e-mail to TheNovimatrem@protonmail.ch with your email client of choice, 
 By popular demand, a Reply button has been added to each post, which will automatically enter the correct Subject line and e-mail address into your default email client.
 <br>
 ### Thank you for reading, see you over on RSS!
+<br>
+## Example screenshot
+
+<img src="https://gitlab.com/Novimatrem/social/-/raw/main/_postImagesUsed/example.png" style="height:auto; width:750px;">
+
+<br>
