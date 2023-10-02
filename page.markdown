@@ -31,7 +31,8 @@ iframe {
 </style>
 <a href="https://novimatrem.gitlab.io/social/feed.xml">
 <icon class=""><img src="https://gitlab.com/uploads/-/system/project/avatar/48786601/rss.png"></icon>
-<a href="https://novimatrem.gitlab.io/social/feed.xml">https://novimatrem.gitlab.io/social/feed.xml</a>
+<a href="https://novimatrem.gitlab.io/social/feed.xml">https://novimatrem.gitlab.io/social/feed.xml</a><br>
+
 <img src="https://gitlab.com/Novimatrem/blog/-/raw/master/face.png">
 <hr>
 Hello!
