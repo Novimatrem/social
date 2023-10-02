@@ -55,7 +55,7 @@ Send an e-mail to TheNovimatrem@protonmail.ch with your email client of choice, 
 
 The title of the post is sometimes just the date the post was posted, but not always.
 <br><br>
-By popular demand, a Reply button has been added to each post, which will automatically enter the correct Subject line and e-mail address into your default email client.
+(NEW!) By popular demand, a Reply button has been added to each post, which will automatically enter the correct Subject line and e-mail address into your default email client.
 <br>
 ### Thank you for reading, see you over on RSS!
 
