@@ -31,9 +31,9 @@ iframe {
 </style>
 <img src="https://gitlab.com/Novimatrem/blog/-/raw/master/face.png">
 <a href="https://novimatrem.gitlab.io/social/feed.xml">
-<icon class=""><img src="https://gitlab.com/uploads/-/system/project/avatar/48786601/rss.png"></img></icon>
-<a href="https://novimatrem.gitlab.io/social/feed.xml">https://novimatrem.gitlab.io/social/feed.xml</a></a>
-
+<icon class=""><img src="https://gitlab.com/uploads/-/system/project/avatar/48786601/rss.png"></icon>
+<a href="https://novimatrem.gitlab.io/social/feed.xml">https://novimatrem.gitlab.io/social/feed.xml</a>
+<hr>
 Hello!
 I'm zoey, aka Novimatrem. 
 
