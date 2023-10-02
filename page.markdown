@@ -34,7 +34,7 @@ iframe {
 <a href="https://novimatrem.gitlab.io/social/feed.xml">https://novimatrem.gitlab.io/social/feed.xml</a><br>
 
 <img src="https://gitlab.com/Novimatrem/blog/-/raw/master/face.png">
-<br>
+<br><br>
 Hello!
 I'm zoey, aka Novimatrem. 
 
