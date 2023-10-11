@@ -36,7 +36,7 @@ iframe {
 <img src="https://gitlab.com/Novimatrem/blog/-/raw/master/face.png">
 <br><br>
 Hello!
-I'm zoey, aka Novimatrem. 
+I'm zoey Globe, aka Novimatrem. 
 
 Welcome to an alternative social media solution, that is read-only, and with only a single user- me!
 
