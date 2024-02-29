@@ -83,8 +83,7 @@ Moved to Tumblr.
          window.location.href = "https://zoeyglobe.tumblr.com/"
       </script>
       <title>Page Redirection</title>
-   </head>
-   <body>
+
       <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
       If you are not redirected automatically, follow this <a href='https://zoeyglobe.tumblr.com/'>link to https://zoeyglobe.tumblr.com/</a>.
 
