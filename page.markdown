@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Moved to Tumblr, if you are not redirected automatically, visit zoeyglobe.tumblr.com
+title: moved to Tumblr, if not redirected automatically, visit zoeyglobe.tumblr.com
 permalink: /page/
 ---
  
