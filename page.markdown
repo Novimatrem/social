@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Novimatrem's microblogging feed
+title: Moved to Tumblr
 permalink: /page/
 ---
 <head>
