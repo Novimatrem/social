@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Moved to Tumblr
+title: Moved to Tumblr, if you are not redirected automatically, visit zoeyglobe.tumblr.com
 permalink: /page/
 ---
+ 
+ If you are not redirected automatically, follow this <a href='https://zoeyglobe.tumblr.com/'>link to https://zoeyglobe.tumblr.com/</a>.
+
 <head>
  <meta http-equiv="refresh" content="0; url=https://zoeyglobe.tumblr.com/">
       <script type="text/javascript">
@@ -42,3 +45,5 @@ Moved to Tumblr.
 If you are not redirected automatically, follow this <a href='https://zoeyglobe.tumblr.com/'>link to https://zoeyglobe.tumblr.com/</a>.
 
 <br><br>
+
+ If you are not redirected automatically, follow this <a href='https://zoeyglobe.tumblr.com/'>link to https://zoeyglobe.tumblr.com/</a>.
